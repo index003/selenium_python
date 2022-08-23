@@ -1,0 +1,8 @@
+test_01 (unittest_08_skipcase.Test01) ... ok
+test_02 (unittest_08_skipcase.Test01) ... ok
+test_03 (unittest_08_skipcase.Test01) ... skipped 'skip test03'
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK (skipped=1)
